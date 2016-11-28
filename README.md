@@ -78,8 +78,6 @@ function _goToEditorCodeLine(file, line){ 
 
 ![Symfony Exception](https://habrastorage.org/files/c51/8da/1be/c518da1bea9d47bbbd1127bc27e5222a.png)
 
-Итоговый вариант двух файлов для Symfony 3 можно посмотреть здесь: 
-[https://github.com/dlevsha/phpstorm-code-navigation-api](https://github.com/dlevsha/phpstorm-code-navigation-api)
 
 # Интеграция с командной строкой в iTerm2
 
